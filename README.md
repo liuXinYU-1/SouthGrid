@@ -1,5 +1,7 @@
 # SouthGrid 南方电网大赛
+## 项目演示视频
 https://github.com/user-attachments/assets/2008bd05-3ab6-45f9-bd43-09ea02dc18ab
+## 项目介绍
 SouthGrid 为南方电网竞赛场景提供人形机器人数据采集、数据回放与在线推理工具。
 
 | 平台 | 交付功能 | 使用说明 |
